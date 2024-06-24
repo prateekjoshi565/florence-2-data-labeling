@@ -4,5 +4,5 @@ Florence-2 model is an efficient foundation model for computer vision tasks. We 
 
 Check the video tutorial 👇
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R3r5P3j8Lnw/0.jpg)](https://www.youtube.com/watch?v=R3r5P3j8Lnw)
+[![florence-2 data labeling](https://img.youtube.com/vi/R3r5P3j8Lnw/0.jpg)](https://www.youtube.com/watch?v=R3r5P3j8Lnw)
 
